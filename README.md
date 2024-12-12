@@ -5,7 +5,10 @@ Animated replay of BTC options IV
 
 
 
-https://github.com/user-attachments/assets/5e06fe5c-1ce3-481e-a800-34c8d49fd34d
+
+https://github.com/user-attachments/assets/313a3233-4641-49fd-9db1-fe4f5253defd
+
+
 
 
 
